@@ -1,0 +1,138 @@
+/* menu */
+.logo-menu{
+    margin-top: 60px;
+    padding-left: 40px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 70px;
+    align-items: center;
+    
+}
+.menu ul li{
+    margin-left: 100px;
+}
+.menu ul button{
+    background-color: #75BF7A;
+    border-color: blue;
+    margin-left: 100px;
+    border-radius: 6px;
+    font-size: 22px;
+    color: white;
+    align-items: end;
+    height: 50px;
+    width: 182px;
+}
+
+/* section 1 */
+.description{
+    text-align: justify;
+    padding-right: 150px;
+}
+.description h1{
+    font-size: 45px;
+    padding-top: 130px;
+    margin: 10px;
+    font-weight: 800;
+}
+.description p{
+    font-size: 23px;
+    color: grey;
+    margin-top: 60px;
+}
+.baner img{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.description div{
+    margin-top: 80px;
+    align-items: center;
+}
+.description div button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.description div button a{
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+}
+
+/* section 2 */
+.description-two div h1{
+    text-align: center;
+    font-size: 47px;
+    margin-top: 70px;
+    font-weight: 700;
+}
+
+.description-two div p{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 23px;
+    color: gray;
+    margin-bottom: 100px;
+}
+/* cards */
+.card .circulo{
+    height: 60px;
+    width: 60px;
+}
+.card .namber{
+    width: 14px;
+    height: 38px;
+}
+/* footer */
+footer{
+    margin-top: 200px;
+}
+.logo-footer{
+    padding-left: 100px;
+}
+.informacion{
+    text-align: justify;
+}
+.informacion h1{
+    font-size: 22px;
+    font-weight: 500;
+    margin-left: 29px;
+}   
+.informacion div ul{
+    list-style: none;
+}
+.informacion div ul li a{
+    text-decoration: none;
+    color: grey;
+    font-size: 16px;
+}
+.col-lg-5 button{
+    background-color: black;
+    border-color: black;
+    margin-left: 150px;
+    height: 46px;
+    width: 178px;
+    border-radius: 6px;
+}
+.col-lg-5 button a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.col-lg-12{
+    padding-top: 70px;
+    margin-bottom: 20px;
+}
+.col-lg-12 a{
+    text-decoration: none;
+    color: #75BF7A;
+    margin-left: 40%;
+    font-size: 18px;
+    font-weight: 400;
+}
+@media (min-width: 320px) and (max-width: 767px){
+
+}
